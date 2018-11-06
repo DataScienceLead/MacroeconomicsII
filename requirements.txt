@@ -1,0 +1,9 @@
+certifi==2018.8.24
+mkl-fft==1.0.4
+mkl-random==1.0.1
+numpy==1.15.1
+pandas==0.23.0
+python-dateutil==2.7.3
+pytz==2018.5
+six==1.11.0
+wincertstore==0.2
