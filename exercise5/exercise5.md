@@ -9,10 +9,14 @@ Calculating models with non-stationary variables can be challenging. Therefore, 
 The model we must count on is thus:
 	Δc_t=z^C+c_1 Δy_t^D-c_2 (i_t-π_t^e)
 &Delta; c <sub>t</sub>  = z<sup>C</sup> + c<sub>1</sub>&Delta;y<sup>D</sup><sub>t</sub> + c<sub>2</sub>(i<sub>t</sub>-&pi<sub>t</sub><sub>e</sub>)
-Where &Delta; is what we call the differential operator and y<sup>D</sup> is the logarithm of real disposable income &Delta;y=log(Y<sub>t</sub> - T<sub>t</sub>). Where P<sub>t</sub> is the prices at time t. We find &Delta;c = log C<sub>t</sub> - log C<sub>t-1</sub>
 
-Assignments
-	Create a figure showing the development in consumption, C, real disposable income, YD and the real interest rate. Briefly summarize what this figure shows
-	Create a similar figure, but replace with change in consumption and real disposable income, Dc and Dyd.
-	Try running an equation regression (1). Use Excel, STATA or Python
-	Briefly describe the parameters you find and correspond to what we have learned in the lectures
+Where &Delta; is what we call the differential operator and y<sup>D</sup> is the logarithm of real disposable income &Delta;y=log(Y<sub>t</sub> - T<sub>t</sub>). Where P<sub>t</sub> is the prices at time t. 
+
+We find that &Delta;c = log C<sub>t</sub> - log C<sub>t-1</sub>
+
+## Assignments
+
+1. Create a figure showing the development in consumption, C, real disposable income, YD and the real interest rate. Briefly summarize what this figure shows
+2. Create a similar figure, but replace with change in consumption and real disposable income, Dc and Dyd.
+3. Try running an equation regression (1). Use Excel, STATA or Python
+4. Briefly describe the parameters you find and correspond to what we have learned in the lectures
