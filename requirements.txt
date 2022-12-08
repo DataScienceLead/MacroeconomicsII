@@ -1,4 +1,4 @@
-certifi==2018.8.24
+certifi==2022.12.7
 mkl-fft==1.0.4
 mkl-random==1.0.1
 numpy==1.15.1
